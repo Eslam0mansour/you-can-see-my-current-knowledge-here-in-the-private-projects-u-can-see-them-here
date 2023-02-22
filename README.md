@@ -4,8 +4,8 @@ https://play.google.com/store/apps/details?id=com.dylanu.quran
 
 
 my last project architecture  
+![Screenshot 2023-02-22 153614](https://user-images.githubusercontent.com/101331596/220635467-c17bd94b-9a3c-4c88-8c7c-764e22f6e34d.jpeg)
 
-![Screenshot 2023-02-13 221848](https://user-images.githubusercontent.com/101331596/220625372-63df915c-439e-465a-97a8-28e35a72308c.jpg)
 
 webview
 
