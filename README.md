@@ -6,6 +6,10 @@ https://play.google.com/store/apps/details?id=com.dylanu.quran
 my last project architecture  
 ![Screenshot 2023-02-22 153614](https://user-images.githubusercontent.com/101331596/220635467-c17bd94b-9a3c-4c88-8c7c-764e22f6e34d.jpeg)
 
+Google maps 
+
+https://user-images.githubusercontent.com/101331596/220901693-48193405-5fd1-4167-ba81-6f6d0c5cadeb.mp4
+
 
 webview
 
